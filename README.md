@@ -1,23 +1,21 @@
-# bist100-analiz
-BIST 100 hisse senetleri için karar ağaçları (decision trees) ile finansal analiz ve portföy optimizasyon modeli.
-# BIST 100 Portföy Optimizasyonu ve Hisse Analizi
+# BIST 100 Portfolio Optimization and Stock Analysis
 
-Bu proje, makine öğrenmesi algoritmaları kullanılarak BIST 100 hisse senetleri üzerinden portföy optimizasyonu ve finansal analiz yapılmasını amaçlamaktadır. 
+This project aims to perform portfolio optimization and financial analysis on BIST 100 stocks using machine learning algorithms.
 
-## Kullanılan Teknolojiler ve Kütüphaneler
+## Technologies and Libraries Used
 * **Python** 
-* **Pandas** (Veri işleme ve manipülasyonu)
-* **Scikit-learn** (Makine öğrenmesi ve karar ağaçları - decision trees modellemesi)
+* **Pandas** (Data processing and manipulation)
+* **Scikit-learn** (Machine learning and decision trees modeling)
 
-## Veri Seti
-Projeye ait analizler, geçmiş fiyat hareketlerini ve hisse performanslarını içeren `hisse_durumu.xlsx` veri seti üzerinden gerçekleştirilmiştir.
+## Dataset
+The analyses are based on the `hisse_durumu.xlsx` dataset, which contains historical price movements and stock performances.
 
-## Proje İçeriği
-* Veri setinin temizlenmesi ve analize hazır hale getirilmesi.
-* Makine öğrenmesi modelleri ile hisse senedi performans tahmini.
-* Risk ve getiri oranlarına göre optimum portföy dağılımının hesaplanması.
+## Project Overview
+* Cleaning the dataset and preparing it for analysis.
+* Predicting stock performance using machine learning models.
+* Calculating the optimal portfolio distribution based on risk and return ratios.
 
-## Nasıl Çalıştırılır?
-Bu projeyi doğrudan tarayıcınız üzerinden çalıştırmak için aşağıdaki butona tıklayabilirsiniz:
+## How to Run
+You can run this project directly in your browser by clicking the button below:
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](BURAYA_COLAB_LINKINI_YAPISTIR)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](INSERT_COLAB_LINK_HERE)
